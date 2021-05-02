@@ -1,9 +1,10 @@
 # Hello, I'm Rudansh Sharma 👋
 
-![Unity](https://img.shields.io/badge/Unity-modest-blueviolet)
-![Python](https://img.shields.io/badge/Python-Intermediate-success)
-![Flutter](https://img.shields.io/badge/Flutter-Intermediate-blue)
-![Machine Learning](https://img.shields.io/badge/MachineLearning-Intermediate-lightgrey)
+![Unity](https://img.shields.io/badge/Unity-modest-blueviolet?style=plastic&logo=appveyor)
+![Python](https://img.shields.io/badge/Python-Intermediate-success?style=plastic&logo=appveyor)
+![Flutter](https://img.shields.io/badge/Flutter-Intermediate-blue?style=plastic&logo=appveyor)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Intermediate-lightgrey?style=plastic&logo=appveyor)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Intermediate-informational?style=plastic&logo=appveyor)
 
 Student at [National Institute of Technology Rourkela]. Python dev with passion for Game dev, App dev and Full Stacl dev. Fascinated by everything that's CS related.
 

@@ -7,7 +7,7 @@
 
 Student at [National Institute of Technology Rourkela]. Python dev with passion for Game dev, App dev and Full Stacl dev. Fascinated by everything that's CS related.
 
-- 🌱 I’m currently learning **WordPress** and **WooCommerce**
+- 🌱 I’m currently learning **HTML** and **JS**
 - ⚙️ Mastering: `.html`,`.css`,`.js`,`.ts`, `.cs`, `.apk`, `.tf`, 
 - 👯 I’m looking to collaborate on **Open Source**, **Machine Learning/Computer Vision**,  **Game Dev** projects
 ### 📬 Get in Touch

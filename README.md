@@ -6,7 +6,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Intermediate-lightgrey?style=for-the-badge&logo=appveyor)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Intermediate-informational?style=for-the-badge&logo=appveyor)
 
-Student at [National Institute of Technology Rourkela]. Python dev with passion for Game dev, App dev and Full Stacl dev. Fascinated by everything that's CS related.
+Student at [National Institute of Technology Rourkela](https://www.nitrkl.ac.in/). Python developer with passion for developing games, App development and developing Websites. I am also fascinated by everything that's CS related. I am also very ardent follower of Machine Learning/Artificial Intelligence world. I love the fact that we don't have to hardcode solutions anymore. Would love to know and make more Machine Learning projects. 
 
 - 🌱 I’m currently learning **HTML** and **JS**
 - ⚙️ Mastering: `.html`,`.css`,`.js`,`.ts`, `.cs`, `.apk`, `.tf`, 

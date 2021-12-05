@@ -5,6 +5,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-Intermediate-blue?style=for-the-badge&logo=appveyor)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Intermediate-lightgrey?style=for-the-badge&logo=appveyor)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Intermediate-informational?style=for-the-badge&logo=appveyor)
+![Solidity](https://img.shields.io/badge/Solidity-Good-yellow?style=for-the-badge&logo=appveyor)
 
 ![Number of Visitors](https://komarev.com/ghpvc/?username=rudranshsharma123&style=flat-square&label=Hello+There!)
 

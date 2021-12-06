@@ -24,7 +24,14 @@ Student at [National Institute of Technology Rourkela](https://www.nitrkl.ac.in/
 
 ![Rudransh Sharma's github stats](https://github-readme-stats.vercel.app/api?username=rudranshsharma123&show_icons=true&hide_border=true&theme=synthwave)
 
+<h3>📊 Stats: </h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudranshsharma123&show_icons=true&locale=en&layout=compact" alt="rudranshsharma123" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudranshsharma123&show_icons=true&locale=en" alt="rudranshsharma123" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudranshsharma123&" alt="rudranshsharma123" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudranshsharma123" alt="rudranshsharma123" /></a> </p>
 
 [![Rudransh Sharma's github activity graph](https://activity-graph.herokuapp.com/graph?username=rudranshsharma123&theme=xcode)](https://github.com/rudranshsharma123)
 

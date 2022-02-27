@@ -32,7 +32,7 @@ Student at [National Institute of Technology Rourkela](https://www.nitrkl.ac.in/
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudranshsharma123" alt="rudranshsharma123" /></a> </p>
 
-[![Rudransh Sharma's github activity graph](https://activity-graph.herokuapp.com/graph?username=rudranshsharma123&theme=xcode)](https://github.com/rudranshsharma123)
+<!-- [![Rudransh Sharma's github activity graph](https://activity-graph.herokuapp.com/graph?username=rudranshsharma123&theme=xcode)](https://github.com/rudranshsharma123) -->
 
 
 
